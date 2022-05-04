@@ -4,11 +4,13 @@
     --primary-app-color: #02203c;
     --secondary-app-color: #001528;
     --standout-app-color: #fffb00;
+    --orange:#ff5823;
 }
 
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 .App {

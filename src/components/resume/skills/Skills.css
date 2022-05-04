@@ -1,0 +1,21 @@
+.skills{
+    margin-block:10px;
+    padding-inline: 30px;
+
+}
+
+.progress-some{
+    background: var(--orange);
+    height:15px;
+}
+.progress-new{
+    background:#1c1c1c;
+    height:15px;
+}
+.language{
+    font-family:"Ubuntu";
+    font-size:.8rem;
+    color:#1c1c1c;
+    text-transform:capitalize;
+    font-weight:bold;
+}
